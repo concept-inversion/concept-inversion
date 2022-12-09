@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/0IAPszdB8MMjPxNhFL/giphy.gif" width="150"/>
 </div>
 
+<h1 align="center">Santosh Pandey<img src="https://media.giphy.com/media/1AIRDSTGfhP5wVUhtz/giphy.gif" width="60"></h1>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=concept-inversion&label=Profile%20views&color=0e75b6&style=plastic" alt="concept-inversion" /> 
 </p>
@@ -11,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 
 
 - 👋 Hi, I’m Santosh Pandey, PhD candidate at Stevens Institute of Technology. 
