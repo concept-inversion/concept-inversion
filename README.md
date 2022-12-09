@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/0IAPszdB8MMjPxNhFL/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/0IAPszdB8MMjPxNhFL/giphy.gif" width="160"/>
 </div>
 
-<h1 align="center">Santosh Pandey<img src="https://media.giphy.com/media/1AIRDSTGfhP5wVUhtz/giphy.gif" width="60"></h1>
+<h1 align="center">Santosh Pandey</h1>
+<!-- <img src="https://media.giphy.com/media/1AIRDSTGfhP5wVUhtz/giphy.gif" width="70"> -->
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=concept-inversion&label=Profile%20views&color=0e75b6&style=plastic" alt="concept-inversion" /> 
 </p>
@@ -16,7 +17,7 @@
 
 - 👋 Hi, I’m Santosh Pandey, PhD candidate at Stevens Institute of Technology. 
 - 👀 I’m interested in computer architecture, ML and HPC. 
-- 🌱 I’m currently learning how to use ML for performance prediction. 
+- 🌱 You can find my publications and other details in my [homepage](https://concept-inversion.github.io/).
 
 ----
 
