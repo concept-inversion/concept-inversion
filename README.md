@@ -12,7 +12,16 @@
 - 👀 I’m interested in computer architecture, ML and HPC. 
 - 🌱 I’m currently learning how to use ML for performance prediction. 
 
+----
 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bibek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=concept-inversion&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=concept-inversion&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="concept-inversion" height="192px"/>
+  </p>
+
+----
 
 <!---
 concept-inversion/concept-inversion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
