@@ -2,11 +2,17 @@
   <img src="https://media.giphy.com/media/0IAPszdB8MMjPxNhFL/giphy.gif" width="150"/>
 </div>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=concept-inversion&label=Profile%20views&color=0e75b6&style=plastic" alt="concept-inversion" /> 
+</p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/santoshpandey1995">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
 
 - 👋 Hi, I’m Santosh Pandey, PhD candidate at Stevens Institute of Technology. 
 - 👀 I’m interested in computer architecture, ML and HPC. 
