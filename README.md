@@ -27,6 +27,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bibek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=concept-inversion&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=concept-inversion&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="concept-inversion" height="192px"/>
   </p>
+  
+<a href="http://www.clustrmaps.com/map/Concept-inversion.github.io" title="Visit tracker for Concept-inversion.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=sx3u_UYxXwJn-vdFlpNlDLu8-tPU3UaPoXXVIHRVDgo" /></a>
+  
 
 ----
 
