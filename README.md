@@ -15,7 +15,7 @@
 </div>
 
 
-- 👋 Hi, I’m Santosh Pandey, PhD candidate at Stevens Institute of Technology. 
+- 👋 Hi, I’m Santosh Pandey, PhD student at Rutgers University. 
 - 👀 I’m interested in computer architecture, ML and HPC. 
 - 🌱 You can find my publications and other details in my [homepage](https://concept-inversion.github.io/).
 
